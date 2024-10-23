@@ -1,2 +1,24 @@
-
 /* Your CSS Code here. */
+table{
+	border-collapse:collapse;
+	padding:2px;
+}
+th{
+	text-align:left;
+	background-color:brown;
+	color:white;
+	padding:10px
+}
+tr,td{
+	padding:10px;
+}
+#first{
+	background-color:#D2042D;
+	color:white;
+}
+#second{
+	background-color:#FFFDD0;
+}
+#third{
+	background-color:gray;
+}
